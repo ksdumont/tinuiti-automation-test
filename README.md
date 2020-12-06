@@ -8,7 +8,7 @@
     $ pip install webdriver-manager
  
 ## Run Script
-#### run npm start on tinuiti beforehand
+##### *run npm start on tinuiti project beforehand*
 
     $ python3 test.py
     
