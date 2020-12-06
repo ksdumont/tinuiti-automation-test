@@ -8,7 +8,7 @@
     $ pip install webdriver-manager
  
 ## Run Script
-##### *Run `npm start` on tinuiti project beforehand so localhost:3000 is running*
+##### *Run `npm start` on tinuiti project beforehand so http://localhost:3000 is running*
 
     $ python3 test.py
     
