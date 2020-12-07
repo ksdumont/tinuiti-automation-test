@@ -20,6 +20,6 @@ go_back_button = chrome_browser.find_element_by_class_name(
 
 go_back_button.click()
 
-print('it seems to be working')
+print('It seems to be working!')
 
 chrome_browser.quit()
