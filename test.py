@@ -6,7 +6,6 @@ chrome_browser = webdriver.Chrome(ChromeDriverManager().install())
 chrome_browser.get(
     'http://localhost:3000')
 
-
 query_search = chrome_browser.find_element_by_class_name('form-control')
 
 query_search.send_keys('emtrak')
